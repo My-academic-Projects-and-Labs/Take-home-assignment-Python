@@ -1,0 +1,1740 @@
+[
+    {
+        "kind": "calendar#event",
+        "etag": "\"3386755685482000\"",
+        "id": "c7t2s0qtvkdjk5ln5uu5cc2080",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=Yzd0MnMwcXR2a2RqazVsbjV1dTVjYzIwODAgY29hY2hjb2FjaGVsbG9AbQ",
+        "created": "2023-08-30T06:44:02.000Z",
+        "updated": "2023-08-30T06:44:02.741Z",
+        "summary": "Coachello séance Mary (Coachello) et lasitha (Enedis)",
+        "description": "Meeting will take place on Google Meet, join on your computer or mobile app.",
+        "creator": {
+            "email": "coachcoachello@gmail.com",
+            "self": true
+        },
+        "organizer": {
+            "email": "coachcoachello@gmail.com",
+            "self": true
+        },
+        "start": {
+            "dateTime": "2023-08-31T09:00:00+05:30",
+            "timeZone": "Asia/Colombo"
+        },
+        "end": {
+            "dateTime": "2023-08-31T10:00:00+05:30",
+            "timeZone": "Asia/Colombo"
+        },
+        "iCalUID": "c7t2s0qtvkdjk5ln5uu5cc2080@google.com",
+        "sequence": 0,
+        "attendees": [
+            {
+                "email": "coachcoachello@gmail.com",
+                "organizer": true,
+                "self": true,
+                "responseStatus": "accepted"
+            },
+            {
+                "email": "lasitha@coachello.io",
+                "responseStatus": "accepted"
+            }
+        ],
+        "hangoutLink": "https://meet.google.com/miv-ixuz-aez",
+        "conferenceData": {
+            "createRequest": {
+                "requestId": "84JYI675YP",
+                "conferenceSolutionKey": {
+                    "type": "hangoutsMeet"
+                },
+                "status": {
+                    "statusCode": "success"
+                }
+            },
+            "entryPoints": [
+                {
+                    "entryPointType": "video",
+                    "uri": "https://meet.google.com/miv-ixuz-aez",
+                    "label": "meet.google.com/miv-ixuz-aez"
+                }
+            ],
+            "conferenceSolution": {
+                "key": {
+                    "type": "hangoutsMeet"
+                },
+                "name": "Google Meet",
+                "iconUri": "https://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v6/web-512dp/logo_meet_2020q4_color_2x_web_512dp.png"
+            },
+            "conferenceId": "miv-ixuz-aez"
+        },
+        "reminders": {
+            "useDefault": false,
+            "overrides": [
+                {
+                    "method": "email",
+                    "minutes": 1440
+                },
+                {
+                    "method": "popup",
+                    "minutes": 10
+                }
+            ]
+        },
+        "eventType": "default"
+    },
+    {
+        "kind": "calendar#event",
+        "etag": "\"3385191687096000\"",
+        "id": "_60q30c1g60o30e1i60o4ac1g60rj8gpl88rj2c1h84s34h9g60s30c1g60o30c1g74q38ga584sk6hhg8gpk8e9g64o30c1g60o30c1g60o30c1g60o32c1g60o30c1g6cpkaea46cs34ca28p2kae1k6ss38c1k74qkcgi58l2jie1l6gp0",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=XzYwcTMwYzFnNjBvMzBlMWk2MG80YWMxZzYwcmo4Z3BsODhyajJjMWg4NHMzNGg5ZzYwczMwYzFnNjBvMzBjMWc3NHEzOGdhNTg0c2s2aGhnOGdwazhlOWc2NG8zMGMxZzYwbzMwYzFnNjBvMzBjMWc2MG8zMmMxZzYwbzMwYzFnNmNwa2FlYTQ2Y3MzNGNhMjhwMmthZTFrNnNzMzhjMWs3NHFrY2dpNThsMmppZTFsNmdwMCBjb2FjaGNvYWNoZWxsb0Bt",
+        "created": "2023-08-21T05:30:39.000Z",
+        "updated": "2023-08-21T05:30:43.548Z",
+        "summary": "Coachello session Marie (Coachello) and lasitha (TestCompany)",
+        "description": "Meeting will take place on Microsoft Teams, join on your computer or mobile app.\n________________________________________________________________________________\nMicrosoft Teams meeting\nJoin on your computer, mobile app or room device\nClick here to join the meeting<https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTdhYzg2YjItMDMwZi00MjFjLWI5MTUtYWExYzliN2Q4NTY4%40thread.v2/0?context=%7b%22Tid%22%3a%222f5c7ee1-4528-43f9-aa0d-441a8a5de728%22%2c%22Oid%22%3a%2209b70665-d173-41ff-8641-8e7470816810%22%7d>\nMeeting ID: 349 366 101 811\nPasscode: AAJdGV\nDownload Teams<https://www.microsoft.com/en-us/microsoft-teams/download-app> | Join on the web<https://www.microsoft.com/microsoft-teams/join-a-meeting>\nOr call in (audio only)\n+33 1 85 65 59 48,,976281528#<tel:+33185655948,,976281528#>   France, Paris\nPhone Conference ID: 976 281 528#\nFind a local number<https://dialin.teams.microsoft.com/fa3950f6-9e40-45f0-a60c-9cf05cedda8d?id=976281528> | Reset PIN<https://dialin.teams.microsoft.com/usp/pstnconferencing>\nLearn more<https://aka.ms/JoinTeamsMeeting> | Meeting options<https://teams.microsoft.com/meetingOptions/?organizerId=09b70665-d173-41ff-8641-8e7470816810&tenantId=2f5c7ee1-4528-43f9-aa0d-441a8a5de728&threadId=19_meeting_MTdhYzg2YjItMDMwZi00MjFjLWI5MTUtYWExYzliN2Q4NTY4@thread.v2&messageId=0&language=en-GB>\n________________________________________________________________________________\n",
+        "location": "Coachello Space",
+        "creator": {
+            "email": "coachcoachello@gmail.com",
+            "self": true
+        },
+        "organizer": {
+            "email": "scheduling@teams.coachello.io",
+            "displayName": "Coaching"
+        },
+        "start": {
+            "dateTime": "2023-09-01T08:30:00+05:30",
+            "timeZone": "Etc/UTC"
+        },
+        "end": {
+            "dateTime": "2023-09-01T09:30:00+05:30",
+            "timeZone": "Etc/UTC"
+        },
+        "iCalUID": "040000008200E00074C5B7101A82E00800000000944AEA9CF0D3D90100000000000000001000000033E9D3821BFEE847840495FBEEE98542",
+        "sequence": 0,
+        "attendees": [
+            {
+                "email": "coachcoachello@gmail.com",
+                "self": true,
+                "responseStatus": "needsAction"
+            },
+            {
+                "email": "lasitha@coachello.io",
+                "displayName": "lasitha jayawardana",
+                "responseStatus": "needsAction"
+            }
+        ],
+        "guestsCanInviteOthers": false,
+        "privateCopy": true,
+        "reminders": {
+            "useDefault": true
+        },
+        "eventType": "default"
+    },
+    {
+        "kind": "calendar#event",
+        "etag": "\"3385229859226000\"",
+        "id": "ssl4s4spc2edvo5hoplkjbm1io",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=c3NsNHM0c3BjMmVkdm81aG9wbGtqYm0xaW8gY29hY2hjb2FjaGVsbG9AbQ",
+        "created": "2023-08-21T10:48:49.000Z",
+        "updated": "2023-08-21T10:48:49.613Z",
+        "summary": "Coachello session Marie (Coachello) and Leon (Coachello)",
+        "description": "Meeting will take place on Google Meet, join on your computer or mobile app.",
+        "creator": {
+            "email": "coachcoachello@gmail.com",
+            "self": true
+        },
+        "organizer": {
+            "email": "coachcoachello@gmail.com",
+            "self": true
+        },
+        "start": {
+            "dateTime": "2023-09-01T15:00:00+05:30",
+            "timeZone": "Europe/Paris"
+        },
+        "end": {
+            "dateTime": "2023-09-01T16:00:00+05:30",
+            "timeZone": "Europe/Paris"
+        },
+        "iCalUID": "ssl4s4spc2edvo5hoplkjbm1io@google.com",
+        "sequence": 0,
+        "attendees": [
+            {
+                "email": "coachcoachello@gmail.com",
+                "organizer": true,
+                "self": true,
+                "responseStatus": "accepted"
+            },
+            {
+                "email": "leon@coachello.io",
+                "responseStatus": "accepted"
+            }
+        ],
+        "hangoutLink": "https://meet.google.com/bvu-eahg-sqr",
+        "conferenceData": {
+            "createRequest": {
+                "requestId": "E33H10YL7L",
+                "conferenceSolutionKey": {
+                    "type": "hangoutsMeet"
+                },
+                "status": {
+                    "statusCode": "success"
+                }
+            },
+            "entryPoints": [
+                {
+                    "entryPointType": "video",
+                    "uri": "https://meet.google.com/bvu-eahg-sqr",
+                    "label": "meet.google.com/bvu-eahg-sqr"
+                }
+            ],
+            "conferenceSolution": {
+                "key": {
+                    "type": "hangoutsMeet"
+                },
+                "name": "Google Meet",
+                "iconUri": "https://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v6/web-512dp/logo_meet_2020q4_color_2x_web_512dp.png"
+            },
+            "conferenceId": "bvu-eahg-sqr"
+        },
+        "reminders": {
+            "useDefault": false,
+            "overrides": [
+                {
+                    "method": "email",
+                    "minutes": 1440
+                },
+                {
+                    "method": "popup",
+                    "minutes": 10
+                }
+            ]
+        },
+        "eventType": "default"
+    },
+    {
+        "kind": "calendar#event",
+        "etag": "\"3386988672516000\"",
+        "id": "rrhdh1d35r82hkm7mjjsqlc08s",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=cnJoZGgxZDM1cjgyaGttN21qanNxbGMwOHMgY29hY2hjb2FjaGVsbG9AbQ",
+        "created": "2023-08-30T16:42:07.000Z",
+        "updated": "2023-09-01T13:29:05.164Z",
+        "summary": "Coachello session Marie (Coachello) and Quentin (Coachello)",
+        "description": "Meeting will take place on Google Meet, join on your computer or mobile app.",
+        "creator": {
+            "email": "coachcoachello@gmail.com",
+            "self": true
+        },
+        "organizer": {
+            "email": "coachcoachello@gmail.com",
+            "self": true
+        },
+        "start": {
+            "dateTime": "2023-09-06T13:45:00+05:30",
+            "timeZone": "Europe/Paris"
+        },
+        "end": {
+            "dateTime": "2023-09-06T14:45:00+05:30",
+            "timeZone": "Europe/Paris"
+        },
+        "iCalUID": "rrhdh1d35r82hkm7mjjsqlc08s@google.com",
+        "sequence": 0,
+        "attendees": [
+            {
+                "email": "coachcoachello@gmail.com",
+                "organizer": true,
+                "self": true,
+                "responseStatus": "accepted"
+            },
+            {
+                "email": "quentin@coachello.io",
+                "responseStatus": "declined"
+            }
+        ],
+        "hangoutLink": "https://meet.google.com/jgb-nakf-vmv",
+        "conferenceData": {
+            "createRequest": {
+                "requestId": "L83YPQPNTT",
+                "conferenceSolutionKey": {
+                    "type": "hangoutsMeet"
+                },
+                "status": {
+                    "statusCode": "success"
+                }
+            },
+            "entryPoints": [
+                {
+                    "entryPointType": "video",
+                    "uri": "https://meet.google.com/jgb-nakf-vmv",
+                    "label": "meet.google.com/jgb-nakf-vmv"
+                }
+            ],
+            "conferenceSolution": {
+                "key": {
+                    "type": "hangoutsMeet"
+                },
+                "name": "Google Meet",
+                "iconUri": "https://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v6/web-512dp/logo_meet_2020q4_color_2x_web_512dp.png"
+            },
+            "conferenceId": "jgb-nakf-vmv"
+        },
+        "reminders": {
+            "useDefault": false,
+            "overrides": [
+                {
+                    "method": "email",
+                    "minutes": 1440
+                },
+                {
+                    "method": "popup",
+                    "minutes": 10
+                }
+            ]
+        },
+        "eventType": "default"
+    },
+    {
+        "kind": "calendar#event",
+        "etag": "\"3387686860676000\"",
+        "id": "_60q30c1g60o30e1i60o4ac1g60rj8gpl88rj2c1h84s34h9g60s30c1g60o30c1g84rj4h1p6or32d1p8h348e9g64o30c1g60o30c1g60o30c1g60o32c1g60o30c1g6ssj8h9j6krjed9l6l0jag9k8osjcghp8go3cc9p8osjcd1n6cqg",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=XzYwcTMwYzFnNjBvMzBlMWk2MG80YWMxZzYwcmo4Z3BsODhyajJjMWg4NHMzNGg5ZzYwczMwYzFnNjBvMzBjMWc4NHJqNGgxcDZvcjMyZDFwOGgzNDhlOWc2NG8zMGMxZzYwbzMwYzFnNjBvMzBjMWc2MG8zMmMxZzYwbzMwYzFnNnNzajhoOWo2a3JqZWQ5bDZsMGphZzlrOG9zamNnaHA4Z28zY2M5cDhvc2pjZDFuNmNxZyBjb2FjaGNvYWNoZWxsb0Bt",
+        "created": "2023-09-04T16:03:46.000Z",
+        "updated": "2023-09-04T16:03:50.338Z",
+        "summary": "Coachello session Marie (Coachello) and lasitha (Excelya)",
+        "description": "Meeting will take place on Microsoft Teams, join on your computer or mobile app.\n________________________________________________________________________________\nMicrosoft Teams meeting\nJoin on your computer, mobile app or room device\nClick here to join the meeting<https://teams.microsoft.com/l/meetup-join/19%3ameeting_YWU5MmE2NDItZTgyNi00Zjg0LWI3MmYtMjUyMGZiZmFjNTUy%40thread.v2/0?context=%7b%22Tid%22%3a%222f5c7ee1-4528-43f9-aa0d-441a8a5de728%22%2c%22Oid%22%3a%2209b70665-d173-41ff-8641-8e7470816810%22%7d>\nMeeting ID: 366 527 598 696\nPasscode: axuWP9\nDownload Teams<https://www.microsoft.com/en-us/microsoft-teams/download-app> | Join on the web<https://www.microsoft.com/microsoft-teams/join-a-meeting>\nOr call in (audio only)\n+33 1 85 65 59 48,,235426436#<tel:+33185655948,,235426436#>   France, Paris\nPhone Conference ID: 235 426 436#\nFind a local number<https://dialin.teams.microsoft.com/fa3950f6-9e40-45f0-a60c-9cf05cedda8d?id=235426436> | Reset PIN<https://dialin.teams.microsoft.com/usp/pstnconferencing>\nLearn more<https://aka.ms/JoinTeamsMeeting> | Meeting options<https://teams.microsoft.com/meetingOptions/?organizerId=09b70665-d173-41ff-8641-8e7470816810&tenantId=2f5c7ee1-4528-43f9-aa0d-441a8a5de728&threadId=19_meeting_YWU5MmE2NDItZTgyNi00Zjg0LWI3MmYtMjUyMGZiZmFjNTUy@thread.v2&messageId=0&language=en-GB>\n________________________________________________________________________________\n",
+        "location": "Coachello Space",
+        "creator": {
+            "email": "coachcoachello@gmail.com",
+            "self": true
+        },
+        "organizer": {
+            "email": "scheduling@teams.coachello.io",
+            "displayName": "Coaching"
+        },
+        "start": {
+            "dateTime": "2023-09-08T10:30:00+05:30",
+            "timeZone": "Etc/UTC"
+        },
+        "end": {
+            "dateTime": "2023-09-08T11:30:00+05:30",
+            "timeZone": "Etc/UTC"
+        },
+        "iCalUID": "040000008200E00074C5B7101A82E00800000000A72D966149DFD901000000000000000010000000794E3577555A5A4F96B9D0619F964735",
+        "sequence": 0,
+        "attendees": [
+            {
+                "email": "coachcoachello@gmail.com",
+                "self": true,
+                "responseStatus": "needsAction"
+            },
+            {
+                "email": "lasitha@coachello.io",
+                "displayName": "lasitha jayawardana",
+                "responseStatus": "needsAction"
+            },
+            {
+                "email": "scheduling@teams.coachello.io",
+                "displayName": "Coaching",
+                "organizer": true,
+                "responseStatus": "accepted"
+            }
+        ],
+        "guestsCanInviteOthers": false,
+        "privateCopy": true,
+        "reminders": {
+            "useDefault": true
+        },
+        "eventType": "default"
+    },
+    {
+        "kind": "calendar#event",
+        "etag": "\"3387688615440000\"",
+        "id": "_60q30c1g60o30e1i60o4ac1g60rj8gpl88rj2c1h84s34h9g60s30c1g60o30c1g6l242dhn6gr46d228h348e9g64o30c1g60o30c1g60o30c1g60o32c1g60o30c1g74r3edpg8kr44ca58gpjechk6t138ha48l334d22750jchhg6kog",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=XzYwcTMwYzFnNjBvMzBlMWk2MG80YWMxZzYwcmo4Z3BsODhyajJjMWg4NHMzNGg5ZzYwczMwYzFnNjBvMzBjMWc2bDI0MmRobjZncjQ2ZDIyOGgzNDhlOWc2NG8zMGMxZzYwbzMwYzFnNjBvMzBjMWc2MG8zMmMxZzYwbzMwYzFnNzRyM2VkcGc4a3I0NGNhNThncGplY2hrNnQxMzhoYTQ4bDMzNGQyMjc1MGpjaGhnNmtvZyBjb2FjaGNvYWNoZWxsb0Bt",
+        "created": "2023-09-04T16:18:23.000Z",
+        "updated": "2023-09-04T16:18:27.720Z",
+        "summary": "Coachello session Marie (Coachello) and lasitha (Excelya)",
+        "description": "Meeting will take place on Microsoft Teams, join on your computer or mobile app.\n________________________________________________________________________________\nMicrosoft Teams meeting\nJoin on your computer, mobile app or room device\nClick here to join the meeting<https://teams.microsoft.com/l/meetup-join/19%3ameeting_M2U5ODJmNjItMzU2Ni00MGMxLWIxNTctZWJhNTA3MDNlZDky%40thread.v2/0?context=%7b%22Tid%22%3a%222f5c7ee1-4528-43f9-aa0d-441a8a5de728%22%2c%22Oid%22%3a%2209b70665-d173-41ff-8641-8e7470816810%22%7d>\nMeeting ID: 332 517 566 561\nPasscode: cYJYdq\nDownload Teams<https://www.microsoft.com/en-us/microsoft-teams/download-app> | Join on the web<https://www.microsoft.com/microsoft-teams/join-a-meeting>\nOr call in (audio only)\n+33 1 85 65 59 48,,162983456#<tel:+33185655948,,162983456#>   France, Paris\nPhone Conference ID: 162 983 456#\nFind a local number<https://dialin.teams.microsoft.com/fa3950f6-9e40-45f0-a60c-9cf05cedda8d?id=162983456> | Reset PIN<https://dialin.teams.microsoft.com/usp/pstnconferencing>\nLearn more<https://aka.ms/JoinTeamsMeeting> | Meeting options<https://teams.microsoft.com/meetingOptions/?organizerId=09b70665-d173-41ff-8641-8e7470816810&tenantId=2f5c7ee1-4528-43f9-aa0d-441a8a5de728&threadId=19_meeting_M2U5ODJmNjItMzU2Ni00MGMxLWIxNTctZWJhNTA3MDNlZDky@thread.v2&messageId=0&language=en-GB>\n________________________________________________________________________________\n",
+        "location": "Coachello Space",
+        "creator": {
+            "email": "coachcoachello@gmail.com",
+            "self": true
+        },
+        "organizer": {
+            "email": "scheduling@teams.coachello.io",
+            "displayName": "Coaching"
+        },
+        "start": {
+            "dateTime": "2023-09-08T11:30:00+05:30",
+            "timeZone": "Etc/UTC"
+        },
+        "end": {
+            "dateTime": "2023-09-08T12:30:00+05:30",
+            "timeZone": "Etc/UTC"
+        },
+        "iCalUID": "040000008200E00074C5B7101A82E008000000005DA6746C4BDFD90100000000000000001000000096770E6B1ED37247B4EDEF24B9A6F051",
+        "sequence": 0,
+        "attendees": [
+            {
+                "email": "coachcoachello@gmail.com",
+                "self": true,
+                "responseStatus": "needsAction"
+            },
+            {
+                "email": "lasitha@coachello.io",
+                "displayName": "lasitha jayawardana",
+                "responseStatus": "needsAction"
+            },
+            {
+                "email": "scheduling@teams.coachello.io",
+                "displayName": "Coaching",
+                "organizer": true,
+                "responseStatus": "accepted"
+            }
+        ],
+        "guestsCanInviteOthers": false,
+        "privateCopy": true,
+        "reminders": {
+            "useDefault": true
+        },
+        "eventType": "default"
+    },
+    {
+        "kind": "calendar#event",
+        "etag": "\"3388893387280000\"",
+        "id": "_60q30c1g60o30e1i60o4ac1g60rj8gpl88rj2c1h84s34h9g60s30c1g60o30c1g7133gd228533agpl8kq48e9g64o30c1g60o30c1g60o30c1g60o32c1g60o30c1g8cq38c2468p34d9j84p44c1k88s4acpp691j0chi8kr3ad9o8kpg",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=XzYwcTMwYzFnNjBvMzBlMWk2MG80YWMxZzYwcmo4Z3BsODhyajJjMWg4NHMzNGg5ZzYwczMwYzFnNjBvMzBjMWc3MTMzZ2QyMjg1MzNhZ3BsOGtxNDhlOWc2NG8zMGMxZzYwbzMwYzFnNjBvMzBjMWc2MG8zMmMxZzYwbzMwYzFnOGNxMzhjMjQ2OHAzNGQ5ajg0cDQ0YzFrODhzNGFjcHA2OTFqMGNoaThrcjNhZDlvOGtwZyBjb2FjaGNvYWNoZWxsb0Bt",
+        "created": "2023-09-11T15:38:08.000Z",
+        "updated": "2023-09-11T15:38:13.640Z",
+        "summary": "Coachello session Marie (Coachello) and Maryline Mattiocco (TestCompany)",
+        "description": "Meeting will take place on Microsoft Teams, join on your computer or mobile app.\n________________________________________________________________________________\nMicrosoft Teams meeting\nJoin on your computer, mobile app or room device\nClick here to join the meeting<https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWVhYTAwMTctMzJmMi00OWNiLTliNjktYTVlMjMxNGU0MmY1%40thread.v2/0?context=%7b%22Tid%22%3a%222f5c7ee1-4528-43f9-aa0d-441a8a5de728%22%2c%22Oid%22%3a%2209b70665-d173-41ff-8641-8e7470816810%22%7d>\nMeeting ID: 370 519 706 488\nPasscode: GrJLF7\nDownload Teams<https://www.microsoft.com/en-us/microsoft-teams/download-app> | Join on the web<https://www.microsoft.com/microsoft-teams/join-a-meeting>\nOr call in (audio only)\n+33 1 85 65 59 48,,17016676#<tel:+33185655948,,17016676#>   France, Paris\nPhone Conference ID: 170 166 76#\nFind a local number<https://dialin.teams.microsoft.com/fa3950f6-9e40-45f0-a60c-9cf05cedda8d?id=17016676> | Reset PIN<https://dialin.teams.microsoft.com/usp/pstnconferencing>\nLearn more<https://aka.ms/JoinTeamsMeeting> | Meeting options<https://teams.microsoft.com/meetingOptions/?organizerId=09b70665-d173-41ff-8641-8e7470816810&tenantId=2f5c7ee1-4528-43f9-aa0d-441a8a5de728&threadId=19_meeting_OWVhYTAwMTctMzJmMi00OWNiLTliNjktYTVlMjMxNGU0MmY1@thread.v2&messageId=0&language=en-GB>\n________________________________________________________________________________\n",
+        "location": "Coachello Space",
+        "creator": {
+            "email": "coachcoachello@gmail.com",
+            "self": true
+        },
+        "organizer": {
+            "email": "scheduling@teams.coachello.io",
+            "displayName": "Coaching"
+        },
+        "start": {
+            "dateTime": "2023-09-12T14:00:00+05:30",
+            "timeZone": "Etc/UTC"
+        },
+        "end": {
+            "dateTime": "2023-09-12T15:00:00+05:30",
+            "timeZone": "Etc/UTC"
+        },
+        "iCalUID": "040000008200E00074C5B7101A82E008000000008F84BAF5C5E4D901000000000000000010000000C440D22253A2B04B8E392C022E6558E3",
+        "sequence": 0,
+        "attendees": [
+            {
+                "email": "coachcoachello@gmail.com",
+                "self": true,
+                "responseStatus": "needsAction"
+            },
+            {
+                "email": "maryline@coachello.io",
+                "displayName": "Maryline Mattiocco",
+                "responseStatus": "needsAction"
+            },
+            {
+                "email": "scheduling@teams.coachello.io",
+                "displayName": "Coaching",
+                "organizer": true,
+                "responseStatus": "accepted"
+            }
+        ],
+        "guestsCanInviteOthers": false,
+        "privateCopy": true,
+        "reminders": {
+            "useDefault": true
+        },
+        "eventType": "default"
+    },
+    {
+        "kind": "calendar#event",
+        "etag": "\"3387470563446000\"",
+        "id": "gv0bb89c3kvsihmi4rv5c3hhu4",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=Z3YwYmI4OWMza3ZzaWhtaTRydjVjM2hodTQgY29hY2hjb2FjaGVsbG9AbQ",
+        "created": "2023-09-01T09:33:02.000Z",
+        "updated": "2023-09-05T10:29:40.977Z",
+        "summary": "Coachello session Marie (Coachello) and Quentin (Coachello)",
+        "description": "Meeting will take place on Google Meet, join on your computer or mobile app.",
+        "creator": {
+            "email": "coachcoachello@gmail.com",
+            "self": true
+        },
+        "organizer": {
+            "email": "coachcoachello@gmail.com",
+            "self": true
+        },
+        "start": {
+            "dateTime": "2023-09-13T13:30:00+05:30",
+            "timeZone": "Europe/Paris"
+        },
+        "end": {
+            "dateTime": "2023-09-13T14:30:00+05:30",
+            "timeZone": "Europe/Paris"
+        },
+        "iCalUID": "gv0bb89c3kvsihmi4rv5c3hhu4@google.com",
+        "sequence": 0,
+        "attendees": [
+            {
+                "email": "coachcoachello@gmail.com",
+                "organizer": true,
+                "self": true,
+                "responseStatus": "accepted"
+            },
+            {
+                "email": "quentin@coachello.io",
+                "responseStatus": "declined"
+            }
+        ],
+        "hangoutLink": "https://meet.google.com/jqf-fxxd-yxj",
+        "conferenceData": {
+            "createRequest": {
+                "requestId": "JCA73FZW7J",
+                "conferenceSolutionKey": {
+                    "type": "hangoutsMeet"
+                },
+                "status": {
+                    "statusCode": "success"
+                }
+            },
+            "entryPoints": [
+                {
+                    "entryPointType": "video",
+                    "uri": "https://meet.google.com/jqf-fxxd-yxj",
+                    "label": "meet.google.com/jqf-fxxd-yxj"
+                }
+            ],
+            "conferenceSolution": {
+                "key": {
+                    "type": "hangoutsMeet"
+                },
+                "name": "Google Meet",
+                "iconUri": "https://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v6/web-512dp/logo_meet_2020q4_color_2x_web_512dp.png"
+            },
+            "conferenceId": "jqf-fxxd-yxj"
+        },
+        "reminders": {
+            "useDefault": false,
+            "overrides": [
+                {
+                    "method": "email",
+                    "minutes": 1440
+                },
+                {
+                    "method": "popup",
+                    "minutes": 10
+                }
+            ]
+        },
+        "eventType": "default"
+    },
+    {
+        "kind": "calendar#event",
+        "etag": "\"3387125757995000\"",
+        "id": "3d6n6gc4mfv9dusoq3sdt3v4fc",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=M2Q2bjZnYzRtZnY5ZHVzb3Ezc2R0M3Y0ZmMgY29hY2hjb2FjaGVsbG9AbQ",
+        "created": "2023-08-28T09:44:50.000Z",
+        "updated": "2023-09-05T10:31:07.637Z",
+        "summary": "Coachello session Marie (Coachello) and Quentin (Coachello)",
+        "description": "Meeting will take place on Google Meet, join on your computer or mobile app.",
+        "creator": {
+            "email": "coachcoachello@gmail.com",
+            "self": true
+        },
+        "organizer": {
+            "email": "coachcoachello@gmail.com",
+            "self": true
+        },
+        "start": {
+            "dateTime": "2023-09-14T13:45:00+05:30",
+            "timeZone": "Europe/Paris"
+        },
+        "end": {
+            "dateTime": "2023-09-14T14:45:00+05:30",
+            "timeZone": "Europe/Paris"
+        },
+        "iCalUID": "3d6n6gc4mfv9dusoq3sdt3v4fc@google.com",
+        "sequence": 0,
+        "attendees": [
+            {
+                "email": "coachcoachello@gmail.com",
+                "organizer": true,
+                "self": true,
+                "responseStatus": "accepted"
+            },
+            {
+                "email": "quentin@coachello.io",
+                "responseStatus": "declined"
+            }
+        ],
+        "hangoutLink": "https://meet.google.com/hct-fiah-nxp",
+        "conferenceData": {
+            "createRequest": {
+                "requestId": "0VOR1NS9N9",
+                "conferenceSolutionKey": {
+                    "type": "hangoutsMeet"
+                },
+                "status": {
+                    "statusCode": "success"
+                }
+            },
+            "entryPoints": [
+                {
+                    "entryPointType": "video",
+                    "uri": "https://meet.google.com/hct-fiah-nxp",
+                    "label": "meet.google.com/hct-fiah-nxp"
+                }
+            ],
+            "conferenceSolution": {
+                "key": {
+                    "type": "hangoutsMeet"
+                },
+                "name": "Google Meet",
+                "iconUri": "https://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v6/web-512dp/logo_meet_2020q4_color_2x_web_512dp.png"
+            },
+            "conferenceId": "hct-fiah-nxp"
+        },
+        "reminders": {
+            "useDefault": false,
+            "overrides": [
+                {
+                    "method": "email",
+                    "minutes": 1440
+                },
+                {
+                    "method": "popup",
+                    "minutes": 10
+                }
+            ]
+        },
+        "eventType": "default"
+    },
+    {
+        "kind": "calendar#event",
+        "etag": "\"3389180042080000\"",
+        "id": "l0jc0n0cvsojtk96n40hotl7mg",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=bDBqYzBuMGN2c29qdGs5Nm40MGhvdGw3bWcgY29hY2hjb2FjaGVsbG9AbQ",
+        "created": "2023-09-13T07:27:01.000Z",
+        "updated": "2023-09-13T07:27:01.040Z",
+        "summary": "Coachello session Marie (Coachello) and Leon (Coachello)",
+        "description": "Meeting will take place on Google Meet, join on your computer or mobile app.",
+        "creator": {
+            "email": "coachcoachello@gmail.com",
+            "self": true
+        },
+        "organizer": {
+            "email": "coachcoachello@gmail.com",
+            "self": true
+        },
+        "start": {
+            "dateTime": "2023-09-15T15:30:00+05:30",
+            "timeZone": "Europe/Paris"
+        },
+        "end": {
+            "dateTime": "2023-09-15T16:30:00+05:30",
+            "timeZone": "Europe/Paris"
+        },
+        "iCalUID": "l0jc0n0cvsojtk96n40hotl7mg@google.com",
+        "sequence": 0,
+        "attendees": [
+            {
+                "email": "coachcoachello@gmail.com",
+                "organizer": true,
+                "self": true,
+                "responseStatus": "accepted"
+            },
+            {
+                "email": "leon@coachello.io",
+                "responseStatus": "accepted"
+            }
+        ],
+        "hangoutLink": "https://meet.google.com/ibm-siia-vmu",
+        "conferenceData": {
+            "createRequest": {
+                "requestId": "JG1LSFF5ZW",
+                "conferenceSolutionKey": {
+                    "type": "hangoutsMeet"
+                },
+                "status": {
+                    "statusCode": "success"
+                }
+            },
+            "entryPoints": [
+                {
+                    "entryPointType": "video",
+                    "uri": "https://meet.google.com/ibm-siia-vmu",
+                    "label": "meet.google.com/ibm-siia-vmu"
+                }
+            ],
+            "conferenceSolution": {
+                "key": {
+                    "type": "hangoutsMeet"
+                },
+                "name": "Google Meet",
+                "iconUri": "https://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v6/web-512dp/logo_meet_2020q4_color_2x_web_512dp.png"
+            },
+            "conferenceId": "ibm-siia-vmu"
+        },
+        "reminders": {
+            "useDefault": false,
+            "overrides": [
+                {
+                    "method": "email",
+                    "minutes": 1440
+                },
+                {
+                    "method": "popup",
+                    "minutes": 10
+                }
+            ]
+        },
+        "eventType": "default"
+    },
+    {
+        "kind": "calendar#event",
+        "etag": "\"3389244089332000\"",
+        "id": "duur02kn62ldhgaveg2ilegtg4",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=ZHV1cjAya242MmxkaGdhdmVnMmlsZWd0ZzQgY29hY2hjb2FjaGVsbG9AbQ",
+        "created": "2023-09-13T16:20:44.000Z",
+        "updated": "2023-09-13T16:20:44.666Z",
+        "summary": "Coachello session Marie (Coachello) and Leon (Coachello)",
+        "description": "Meeting will take place on Google Meet, join on your computer or mobile app.",
+        "creator": {
+            "email": "coachcoachello@gmail.com",
+            "self": true
+        },
+        "organizer": {
+            "email": "coachcoachello@gmail.com",
+            "self": true
+        },
+        "start": {
+            "dateTime": "2023-09-15T16:30:00+05:30",
+            "timeZone": "Europe/Paris"
+        },
+        "end": {
+            "dateTime": "2023-09-15T17:30:00+05:30",
+            "timeZone": "Europe/Paris"
+        },
+        "iCalUID": "duur02kn62ldhgaveg2ilegtg4@google.com",
+        "sequence": 0,
+        "attendees": [
+            {
+                "email": "coachcoachello@gmail.com",
+                "organizer": true,
+                "self": true,
+                "responseStatus": "accepted"
+            },
+            {
+                "email": "leon@coachello.io",
+                "responseStatus": "accepted"
+            }
+        ],
+        "hangoutLink": "https://meet.google.com/jxq-vitz-pto",
+        "conferenceData": {
+            "createRequest": {
+                "requestId": "F0CPRQBNYF",
+                "conferenceSolutionKey": {
+                    "type": "hangoutsMeet"
+                },
+                "status": {
+                    "statusCode": "success"
+                }
+            },
+            "entryPoints": [
+                {
+                    "entryPointType": "video",
+                    "uri": "https://meet.google.com/jxq-vitz-pto",
+                    "label": "meet.google.com/jxq-vitz-pto"
+                }
+            ],
+            "conferenceSolution": {
+                "key": {
+                    "type": "hangoutsMeet"
+                },
+                "name": "Google Meet",
+                "iconUri": "https://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v6/web-512dp/logo_meet_2020q4_color_2x_web_512dp.png"
+            },
+            "conferenceId": "jxq-vitz-pto"
+        },
+        "reminders": {
+            "useDefault": false,
+            "overrides": [
+                {
+                    "method": "email",
+                    "minutes": 1440
+                },
+                {
+                    "method": "popup",
+                    "minutes": 10
+                }
+            ]
+        },
+        "eventType": "default"
+    },
+    {
+        "kind": "calendar#event",
+        "etag": "\"3389637546389000\"",
+        "id": "tcajv0bbck16ap7495k4mplt4g",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=dGNhanYwYmJjazE2YXA3NDk1azRtcGx0NGcgY29hY2hjb2FjaGVsbG9AbQ",
+        "created": "2023-09-13T14:06:18.000Z",
+        "updated": "2023-09-18T07:52:47.834Z",
+        "summary": "Coachello session Marie (Coachello) and livia (Coachello)",
+        "description": "Meeting will take place on Google Meet, join on your computer or mobile app.",
+        "creator": {
+            "email": "coachcoachello@gmail.com",
+            "self": true
+        },
+        "organizer": {
+            "email": "coachcoachello@gmail.com",
+            "self": true
+        },
+        "start": {
+            "dateTime": "2023-09-19T14:30:00+05:30",
+            "timeZone": "Europe/Paris"
+        },
+        "end": {
+            "dateTime": "2023-09-19T15:30:00+05:30",
+            "timeZone": "Europe/Paris"
+        },
+        "iCalUID": "tcajv0bbck16ap7495k4mplt4g@google.com",
+        "sequence": 0,
+        "attendees": [
+            {
+                "email": "coachcoachello@gmail.com",
+                "organizer": true,
+                "self": true,
+                "responseStatus": "accepted"
+            },
+            {
+                "email": "livia@coachello.io",
+                "responseStatus": "declined"
+            }
+        ],
+        "hangoutLink": "https://meet.google.com/ykn-hkwm-psa",
+        "conferenceData": {
+            "createRequest": {
+                "requestId": "84MOCXDILZ",
+                "conferenceSolutionKey": {
+                    "type": "hangoutsMeet"
+                },
+                "status": {
+                    "statusCode": "success"
+                }
+            },
+            "entryPoints": [
+                {
+                    "entryPointType": "video",
+                    "uri": "https://meet.google.com/ykn-hkwm-psa",
+                    "label": "meet.google.com/ykn-hkwm-psa"
+                }
+            ],
+            "conferenceSolution": {
+                "key": {
+                    "type": "hangoutsMeet"
+                },
+                "name": "Google Meet",
+                "iconUri": "https://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v6/web-512dp/logo_meet_2020q4_color_2x_web_512dp.png"
+            },
+            "conferenceId": "ykn-hkwm-psa"
+        },
+        "reminders": {
+            "useDefault": false,
+            "overrides": [
+                {
+                    "method": "email",
+                    "minutes": 1440
+                },
+                {
+                    "method": "popup",
+                    "minutes": 10
+                }
+            ]
+        },
+        "eventType": "default"
+    },
+    {
+        "kind": "calendar#event",
+        "etag": "\"3389483705140000\"",
+        "id": "v01im6hl7950i0v2bpo714k104",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=djAxaW02aGw3OTUwaTB2MmJwbzcxNGsxMDQgY29hY2hjb2FjaGVsbG9AbQ",
+        "created": "2023-09-12T13:28:40.000Z",
+        "updated": "2023-09-17T13:46:24.199Z",
+        "summary": "Coachello session Marie (Coachello) and Quentin (Coachello)",
+        "description": "Meeting will take place on Google Meet, join on your computer or mobile app.",
+        "creator": {
+            "email": "coachcoachello@gmail.com",
+            "self": true
+        },
+        "organizer": {
+            "email": "coachcoachello@gmail.com",
+            "self": true
+        },
+        "start": {
+            "dateTime": "2023-09-20T13:30:00+05:30",
+            "timeZone": "Europe/Paris"
+        },
+        "end": {
+            "dateTime": "2023-09-20T14:30:00+05:30",
+            "timeZone": "Europe/Paris"
+        },
+        "iCalUID": "v01im6hl7950i0v2bpo714k104@google.com",
+        "sequence": 0,
+        "attendees": [
+            {
+                "email": "coachcoachello@gmail.com",
+                "organizer": true,
+                "self": true,
+                "responseStatus": "accepted"
+            },
+            {
+                "email": "quentin@coachello.io",
+                "responseStatus": "declined"
+            }
+        ],
+        "hangoutLink": "https://meet.google.com/byw-wajd-yhb",
+        "conferenceData": {
+            "createRequest": {
+                "requestId": "N4AESC1JA3",
+                "conferenceSolutionKey": {
+                    "type": "hangoutsMeet"
+                },
+                "status": {
+                    "statusCode": "success"
+                }
+            },
+            "entryPoints": [
+                {
+                    "entryPointType": "video",
+                    "uri": "https://meet.google.com/byw-wajd-yhb",
+                    "label": "meet.google.com/byw-wajd-yhb"
+                }
+            ],
+            "conferenceSolution": {
+                "key": {
+                    "type": "hangoutsMeet"
+                },
+                "name": "Google Meet",
+                "iconUri": "https://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v6/web-512dp/logo_meet_2020q4_color_2x_web_512dp.png"
+            },
+            "conferenceId": "byw-wajd-yhb"
+        },
+        "reminders": {
+            "useDefault": false,
+            "overrides": [
+                {
+                    "method": "email",
+                    "minutes": 1440
+                },
+                {
+                    "method": "popup",
+                    "minutes": 10
+                }
+            ]
+        },
+        "eventType": "default"
+    },
+    {
+        "kind": "calendar#event",
+        "etag": "\"3388866362898000\"",
+        "id": "_60q30c1g60o30e1i60o4ac1g60rj8gpl88rj2c1h84s34h9g60s30c1g60o30c1g88sjad266srkcg9m8kq48e9g64o30c1g60o30c1g60o30c1g60o32c1g60o30c1g8kq3ge1l74pjgcpk8ksk4chk6d0j6h9i6gqk4gpo74q30h1g84qg",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=XzYwcTMwYzFnNjBvMzBlMWk2MG80YWMxZzYwcmo4Z3BsODhyajJjMWg4NHMzNGg5ZzYwczMwYzFnNjBvMzBjMWc4OHNqYWQyNjZzcmtjZzltOGtxNDhlOWc2NG8zMGMxZzYwbzMwYzFnNjBvMzBjMWc2MG8zMmMxZzYwbzMwYzFnOGtxM2dlMWw3NHBqZ2Nwazhrc2s0Y2hrNmQwajZoOWk2Z3FrNGdwbzc0cTMwaDFnODRxZyBjb2FjaGNvYWNoZWxsb0Bt",
+        "created": "2023-09-11T11:52:56.000Z",
+        "updated": "2023-09-11T11:53:01.449Z",
+        "summary": "Coachello session Marie (Coachello) and lasitha (TestCompany)",
+        "description": "Meeting will take place on Microsoft Teams, join on your computer or mobile app.\n________________________________________________________________________________\nMicrosoft Teams meeting\nJoin on your computer, mobile app or room device\nClick here to join the meeting<https://teams.microsoft.com/l/meetup-join/19%3ameeting_NGI4NDI0ZjAtMjZmMS00NGI3LWFmNWUtOGI3ZDQ2N2Q5YjZm%40thread.v2/0?context=%7b%22Tid%22%3a%222f5c7ee1-4528-43f9-aa0d-441a8a5de728%22%2c%22Oid%22%3a%2209b70665-d173-41ff-8641-8e7470816810%22%7d>\nMeeting ID: 387 531 317 108\nPasscode: Yyoobx\nDownload Teams<https://www.microsoft.com/en-us/microsoft-teams/download-app> | Join on the web<https://www.microsoft.com/microsoft-teams/join-a-meeting>\nOr call in (audio only)\n+33 1 85 65 59 48,,864623363#<tel:+33185655948,,864623363#>   France, Paris\nPhone Conference ID: 864 623 363#\nFind a local number<https://dialin.teams.microsoft.com/fa3950f6-9e40-45f0-a60c-9cf05cedda8d?id=864623363> | Reset PIN<https://dialin.teams.microsoft.com/usp/pstnconferencing>\nLearn more<https://aka.ms/JoinTeamsMeeting> | Meeting options<https://teams.microsoft.com/meetingOptions/?organizerId=09b70665-d173-41ff-8641-8e7470816810&tenantId=2f5c7ee1-4528-43f9-aa0d-441a8a5de728&threadId=19_meeting_NGI4NDI0ZjAtMjZmMS00NGI3LWFmNWUtOGI3ZDQ2N2Q5YjZm@thread.v2&messageId=0&language=en-GB>\n________________________________________________________________________________\n",
+        "location": "Coachello Space",
+        "creator": {
+            "email": "coachcoachello@gmail.com",
+            "self": true
+        },
+        "organizer": {
+            "email": "scheduling@teams.coachello.io",
+            "displayName": "Coaching"
+        },
+        "start": {
+            "dateTime": "2023-09-21T09:45:00+05:30",
+            "timeZone": "Etc/UTC"
+        },
+        "end": {
+            "dateTime": "2023-09-21T10:45:00+05:30",
+            "timeZone": "Etc/UTC"
+        },
+        "iCalUID": "040000008200E00074C5B7101A82E00800000000B954F77FA6E4D901000000000000000010000000E488593834E9B243A3E245BC8940D0A5",
+        "sequence": 0,
+        "attendees": [
+            {
+                "email": "coachcoachello@gmail.com",
+                "self": true,
+                "responseStatus": "needsAction"
+            },
+            {
+                "email": "lasitha@coachello.io",
+                "displayName": "lasitha jayawardana",
+                "responseStatus": "needsAction"
+            },
+            {
+                "email": "scheduling@teams.coachello.io",
+                "displayName": "Coaching",
+                "organizer": true,
+                "responseStatus": "accepted"
+            }
+        ],
+        "guestsCanInviteOthers": false,
+        "privateCopy": true,
+        "reminders": {
+            "useDefault": true
+        },
+        "eventType": "default"
+    },
+    {
+        "kind": "calendar#event",
+        "etag": "\"3389404354999000\"",
+        "id": "qf3arh4qdh13l5htnoghso9gvc",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=cWYzYXJoNHFkaDEzbDVodG5vZ2hzbzlndmMgY29hY2hjb2FjaGVsbG9AbQ",
+        "created": "2023-09-11T15:26:04.000Z",
+        "updated": "2023-09-17T13:46:30.910Z",
+        "summary": "Coachello session Marie (Coachello) and Quentin (Coachello)",
+        "description": "Meeting will take place on Google Meet, join on your computer or mobile app.",
+        "creator": {
+            "email": "coachcoachello@gmail.com",
+            "self": true
+        },
+        "organizer": {
+            "email": "coachcoachello@gmail.com",
+            "self": true
+        },
+        "start": {
+            "dateTime": "2023-09-21T12:45:00+05:30",
+            "timeZone": "Europe/Paris"
+        },
+        "end": {
+            "dateTime": "2023-09-21T13:45:00+05:30",
+            "timeZone": "Europe/Paris"
+        },
+        "iCalUID": "qf3arh4qdh13l5htnoghso9gvc@google.com",
+        "sequence": 0,
+        "attendees": [
+            {
+                "email": "coachcoachello@gmail.com",
+                "organizer": true,
+                "self": true,
+                "responseStatus": "accepted"
+            },
+            {
+                "email": "quentin@coachello.io",
+                "responseStatus": "declined"
+            }
+        ],
+        "hangoutLink": "https://meet.google.com/gga-rgqt-vog",
+        "conferenceData": {
+            "createRequest": {
+                "requestId": "RJNPD0OKZB",
+                "conferenceSolutionKey": {
+                    "type": "hangoutsMeet"
+                },
+                "status": {
+                    "statusCode": "success"
+                }
+            },
+            "entryPoints": [
+                {
+                    "entryPointType": "video",
+                    "uri": "https://meet.google.com/gga-rgqt-vog",
+                    "label": "meet.google.com/gga-rgqt-vog"
+                }
+            ],
+            "conferenceSolution": {
+                "key": {
+                    "type": "hangoutsMeet"
+                },
+                "name": "Google Meet",
+                "iconUri": "https://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v6/web-512dp/logo_meet_2020q4_color_2x_web_512dp.png"
+            },
+            "conferenceId": "gga-rgqt-vog"
+        },
+        "reminders": {
+            "useDefault": false,
+            "overrides": [
+                {
+                    "method": "email",
+                    "minutes": 1440
+                },
+                {
+                    "method": "popup",
+                    "minutes": 10
+                }
+            ]
+        },
+        "eventType": "default"
+    },
+    {
+        "kind": "calendar#event",
+        "etag": "\"3388879378911000\"",
+        "id": "li21cpg7pbbkfkq9uk2tvvah0o",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=bGkyMWNwZzdwYmJrZmtxOXVrMnR2dmFoMG8gY29hY2hjb2FjaGVsbG9AbQ",
+        "created": "2023-09-05T13:36:20.000Z",
+        "updated": "2023-09-17T13:46:38.113Z",
+        "summary": "Coachello session Marie (Coachello) and Quentin (Coachello)",
+        "description": "Meeting will take place on Google Meet, join on your computer or mobile app.",
+        "creator": {
+            "email": "coachcoachello@gmail.com",
+            "self": true
+        },
+        "organizer": {
+            "email": "coachcoachello@gmail.com",
+            "self": true
+        },
+        "start": {
+            "dateTime": "2023-09-21T14:15:00+05:30",
+            "timeZone": "Europe/Paris"
+        },
+        "end": {
+            "dateTime": "2023-09-21T15:15:00+05:30",
+            "timeZone": "Europe/Paris"
+        },
+        "iCalUID": "li21cpg7pbbkfkq9uk2tvvah0o@google.com",
+        "sequence": 0,
+        "attendees": [
+            {
+                "email": "coachcoachello@gmail.com",
+                "organizer": true,
+                "self": true,
+                "responseStatus": "accepted"
+            },
+            {
+                "email": "quentin@coachello.io",
+                "responseStatus": "declined"
+            }
+        ],
+        "hangoutLink": "https://meet.google.com/fja-vtav-woj",
+        "conferenceData": {
+            "createRequest": {
+                "requestId": "JDI0ZK1VWB",
+                "conferenceSolutionKey": {
+                    "type": "hangoutsMeet"
+                },
+                "status": {
+                    "statusCode": "success"
+                }
+            },
+            "entryPoints": [
+                {
+                    "entryPointType": "video",
+                    "uri": "https://meet.google.com/fja-vtav-woj",
+                    "label": "meet.google.com/fja-vtav-woj"
+                }
+            ],
+            "conferenceSolution": {
+                "key": {
+                    "type": "hangoutsMeet"
+                },
+                "name": "Google Meet",
+                "iconUri": "https://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v6/web-512dp/logo_meet_2020q4_color_2x_web_512dp.png"
+            },
+            "conferenceId": "fja-vtav-woj"
+        },
+        "reminders": {
+            "useDefault": false,
+            "overrides": [
+                {
+                    "method": "email",
+                    "minutes": 1440
+                },
+                {
+                    "method": "popup",
+                    "minutes": 10
+                }
+            ]
+        },
+        "eventType": "default"
+    },
+    {
+        "kind": "calendar#event",
+        "etag": "\"3389341739204000\"",
+        "id": "_60q30c1g60o30e1i60o4ac1g60rj8gpl88rj2c1h84s34h9g60s30c1g60o30c1g8cqj8ea56d2jigq68kr48e9g64o30c1g60o30c1g60o30c1g60o32c1g60o30c1g6sok6ga58gq32h9i6sr38h9k6h136h1k6oqk4g9n6d234cq58osg",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=XzYwcTMwYzFnNjBvMzBlMWk2MG80YWMxZzYwcmo4Z3BsODhyajJjMWg4NHMzNGg5ZzYwczMwYzFnNjBvMzBjMWc4Y3FqOGVhNTZkMmppZ3E2OGtyNDhlOWc2NG8zMGMxZzYwbzMwYzFnNjBvMzBjMWc2MG8zMmMxZzYwbzMwYzFnNnNvazZnYTU4Z3EzMmg5aTZzcjM4aDlrNmgxMzZoMWs2b3FrNGc5bjZkMjM0Y3E1OG9zZyBjb2FjaGNvYWNoZWxsb0Bt",
+        "created": "2023-09-14T05:54:26.000Z",
+        "updated": "2023-09-14T05:54:29.602Z",
+        "summary": "Coachello session Marie (Coachello) and lasitha (TestCompany)",
+        "description": "Meeting will take place on Microsoft Teams, join on your computer or mobile app.\n________________________________________________________________________________\nMicrosoft Teams meeting\nJoin on your computer, mobile app or room device\nClick here to join the meeting<https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjgwNTUxMDYtZWE2ZC00YjM4LWFjYjctODNlYzk4ZjVkNTdi%40thread.v2/0?context=%7b%22Tid%22%3a%222f5c7ee1-4528-43f9-aa0d-441a8a5de728%22%2c%22Oid%22%3a%2209b70665-d173-41ff-8641-8e7470816810%22%7d>\nMeeting ID: 397 942 696 287\nPasscode: wDwZAj\nDownload Teams<https://www.microsoft.com/en-us/microsoft-teams/download-app> | Join on the web<https://www.microsoft.com/microsoft-teams/join-a-meeting>\nOr call in (audio only)\n+33 1 85 65 59 48,,843474256#<tel:+33185655948,,843474256#>   France, Paris\nPhone Conference ID: 843 474 256#\nFind a local number<https://dialin.teams.microsoft.com/fa3950f6-9e40-45f0-a60c-9cf05cedda8d?id=843474256> | Reset PIN<https://dialin.teams.microsoft.com/usp/pstnconferencing>\nLearn more<https://aka.ms/JoinTeamsMeeting> | Meeting options<https://teams.microsoft.com/meetingOptions/?organizerId=09b70665-d173-41ff-8641-8e7470816810&tenantId=2f5c7ee1-4528-43f9-aa0d-441a8a5de728&threadId=19_meeting_NjgwNTUxMDYtZWE2ZC00YjM4LWFjYjctODNlYzk4ZjVkNTdi@thread.v2&messageId=0&language=en-GB>\n________________________________________________________________________________\n",
+        "location": "Coachello Space",
+        "creator": {
+            "email": "coachcoachello@gmail.com",
+            "self": true
+        },
+        "organizer": {
+            "email": "scheduling@teams.coachello.io",
+            "displayName": "Coaching"
+        },
+        "start": {
+            "dateTime": "2023-09-22T09:30:00+05:30",
+            "timeZone": "Etc/UTC"
+        },
+        "end": {
+            "dateTime": "2023-09-22T10:30:00+05:30",
+            "timeZone": "Etc/UTC"
+        },
+        "iCalUID": "040000008200E00074C5B7101A82E00800000000C549E3E9CFE6D90100000000000000001000000071CAED41E2764E44B3D465BA73D23EF9",
+        "sequence": 0,
+        "attendees": [
+            {
+                "email": "coachcoachello@gmail.com",
+                "self": true,
+                "responseStatus": "needsAction"
+            },
+            {
+                "email": "lasitha@coachello.io",
+                "displayName": "lasitha jayawardana",
+                "responseStatus": "needsAction"
+            },
+            {
+                "email": "scheduling@teams.coachello.io",
+                "displayName": "Coaching",
+                "organizer": true,
+                "responseStatus": "accepted"
+            }
+        ],
+        "guestsCanInviteOthers": false,
+        "privateCopy": true,
+        "reminders": {
+            "useDefault": true
+        },
+        "eventType": "default"
+    },
+    {
+        "kind": "calendar#event",
+        "etag": "\"3388017807108000\"",
+        "id": "_60q30c1g60o30e1i60o4ac1g60rj8gpl88rj2c1h84s34h9g60s30c1g60o30c1g65244h9i610jagq18ko48e9g64o30c1g60o30c1g60o30c1g60o32c1g60o30c1g6t348gq488q4adq26t144gpk890k8dhm85142hhi88p34chh8oqg",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=XzYwcTMwYzFnNjBvMzBlMWk2MG80YWMxZzYwcmo4Z3BsODhyajJjMWg4NHMzNGg5ZzYwczMwYzFnNjBvMzBjMWc2NTI0NGg5aTYxMGphZ3ExOGtvNDhlOWc2NG8zMGMxZzYwbzMwYzFnNjBvMzBjMWc2MG8zMmMxZzYwbzMwYzFnNnQzNDhncTQ4OHE0YWRxMjZ0MTQ0Z3BrODkwazhkaG04NTE0MmhoaTg4cDM0Y2hoOG9xZyBjb2FjaGNvYWNoZWxsb0Bt",
+        "created": "2023-09-06T14:01:38.000Z",
+        "updated": "2023-09-06T14:01:43.554Z",
+        "summary": "Coachello session Marie (Coachello) and Luc (TestCompany)",
+        "description": "Meeting will take place on Microsoft Teams, join on your computer or mobile app.\n________________________________________________________________________________\nMicrosoft Teams meeting\nJoin on your computer, mobile app or room device\nClick here to join the meeting<https://teams.microsoft.com/l/meetup-join/19%3ameeting_YjUzYzc0NzUtNGNlMi00NjFjLTg0ODctNjlkNjY1OGM3ZGQ4%40thread.v2/0?context=%7b%22Tid%22%3a%222f5c7ee1-4528-43f9-aa0d-441a8a5de728%22%2c%22Oid%22%3a%2209b70665-d173-41ff-8641-8e7470816810%22%7d>\nMeeting ID: 310 810 422 655\nPasscode: FYYpx5\nDownload Teams<https://www.microsoft.com/en-us/microsoft-teams/download-app> | Join on the web<https://www.microsoft.com/microsoft-teams/join-a-meeting>\nOr call in (audio only)\n+33 1 85 65 59 48,,801480989#<tel:+33185655948,,801480989#>   France, Paris\nPhone Conference ID: 801 480 989#\nFind a local number<https://dialin.teams.microsoft.com/fa3950f6-9e40-45f0-a60c-9cf05cedda8d?id=801480989> | Reset PIN<https://dialin.teams.microsoft.com/usp/pstnconferencing>\nLearn more<https://aka.ms/JoinTeamsMeeting> | Meeting options<https://teams.microsoft.com/meetingOptions/?organizerId=09b70665-d173-41ff-8641-8e7470816810&tenantId=2f5c7ee1-4528-43f9-aa0d-441a8a5de728&threadId=19_meeting_YjUzYzc0NzUtNGNlMi00NjFjLTg0ODctNjlkNjY1OGM3ZGQ4@thread.v2&messageId=0&language=en-GB>\n________________________________________________________________________________\n",
+        "location": "Coachello Space",
+        "creator": {
+            "email": "coachcoachello@gmail.com",
+            "self": true
+        },
+        "organizer": {
+            "email": "scheduling@teams.coachello.io",
+            "displayName": "Coaching"
+        },
+        "start": {
+            "dateTime": "2023-09-22T12:30:00+05:30",
+            "timeZone": "Etc/UTC"
+        },
+        "end": {
+            "dateTime": "2023-09-22T13:30:00+05:30",
+            "timeZone": "Etc/UTC"
+        },
+        "iCalUID": "040000008200E00074C5B7101A82E008000000001DBE20A5CAE0D9010000000000000000100000007FDCDB4E7B7BBC4BAD66ABAF2B2221F5",
+        "sequence": 0,
+        "attendees": [
+            {
+                "email": "coachcoachello@gmail.com",
+                "self": true,
+                "responseStatus": "needsAction"
+            },
+            {
+                "email": "luc@coachello.io",
+                "displayName": "Luc Linel",
+                "responseStatus": "needsAction"
+            },
+            {
+                "email": "scheduling@teams.coachello.io",
+                "displayName": "Coaching",
+                "organizer": true,
+                "responseStatus": "accepted"
+            }
+        ],
+        "guestsCanInviteOthers": false,
+        "privateCopy": true,
+        "reminders": {
+            "useDefault": true
+        },
+        "eventType": "default"
+    },
+    {
+        "kind": "calendar#event",
+        "etag": "\"3385819091492000\"",
+        "id": "oa9d3kk40c455b3k14t2l5n9mg",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=b2E5ZDNrazQwYzQ1NWIzazE0dDJsNW45bWcgY29hY2hjb2FjaGVsbG9AbQ",
+        "created": "2023-08-24T20:39:05.000Z",
+        "updated": "2023-08-24T20:39:05.746Z",
+        "summary": "Coachello session Marie (Coachello) and Leon (Coachello)",
+        "description": "Meeting will take place on Google Meet, join on your computer or mobile app.",
+        "creator": {
+            "email": "coachcoachello@gmail.com",
+            "self": true
+        },
+        "organizer": {
+            "email": "coachcoachello@gmail.com",
+            "self": true
+        },
+        "start": {
+            "dateTime": "2023-09-22T14:15:00+05:30",
+            "timeZone": "Europe/Paris"
+        },
+        "end": {
+            "dateTime": "2023-09-22T15:15:00+05:30",
+            "timeZone": "Europe/Paris"
+        },
+        "iCalUID": "oa9d3kk40c455b3k14t2l5n9mg@google.com",
+        "sequence": 0,
+        "attendees": [
+            {
+                "email": "coachcoachello@gmail.com",
+                "organizer": true,
+                "self": true,
+                "responseStatus": "accepted"
+            },
+            {
+                "email": "leon@coachello.io",
+                "responseStatus": "accepted"
+            }
+        ],
+        "hangoutLink": "https://meet.google.com/tms-ddfn-pft",
+        "conferenceData": {
+            "createRequest": {
+                "requestId": "KK6QM4KLQW",
+                "conferenceSolutionKey": {
+                    "type": "hangoutsMeet"
+                },
+                "status": {
+                    "statusCode": "success"
+                }
+            },
+            "entryPoints": [
+                {
+                    "entryPointType": "video",
+                    "uri": "https://meet.google.com/tms-ddfn-pft",
+                    "label": "meet.google.com/tms-ddfn-pft"
+                }
+            ],
+            "conferenceSolution": {
+                "key": {
+                    "type": "hangoutsMeet"
+                },
+                "name": "Google Meet",
+                "iconUri": "https://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v6/web-512dp/logo_meet_2020q4_color_2x_web_512dp.png"
+            },
+            "conferenceId": "tms-ddfn-pft"
+        },
+        "reminders": {
+            "useDefault": false,
+            "overrides": [
+                {
+                    "method": "email",
+                    "minutes": 1440
+                },
+                {
+                    "method": "popup",
+                    "minutes": 10
+                }
+            ]
+        },
+        "eventType": "default"
+    },
+    {
+        "kind": "calendar#event",
+        "etag": "\"3390738793372000\"",
+        "id": "j8ji7glbd3qabvvtiarrctc2pg",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=ajhqaTdnbGJkM3FhYnZ2dGlhcnJjdGMycGcgY29hY2hjb2FjaGVsbG9AbQ",
+        "created": "2023-09-22T07:56:36.000Z",
+        "updated": "2023-09-22T07:56:36.686Z",
+        "summary": "Coachello session Marie (Coachello) and Lasitha (Coachello)",
+        "description": "Meeting will take place on Google Meet, join on your computer or mobile app.",
+        "creator": {
+            "email": "coachcoachello@gmail.com",
+            "self": true
+        },
+        "organizer": {
+            "email": "coachcoachello@gmail.com",
+            "self": true
+        },
+        "start": {
+            "dateTime": "2023-09-26T09:00:00+05:30",
+            "timeZone": "Asia/Colombo"
+        },
+        "end": {
+            "dateTime": "2023-09-26T10:00:00+05:30",
+            "timeZone": "Asia/Colombo"
+        },
+        "iCalUID": "j8ji7glbd3qabvvtiarrctc2pg@google.com",
+        "sequence": 0,
+        "attendees": [
+            {
+                "email": "coachcoachello@gmail.com",
+                "organizer": true,
+                "self": true,
+                "responseStatus": "accepted"
+            },
+            {
+                "email": "lasitha.work@gmail.com",
+                "responseStatus": "accepted"
+            }
+        ],
+        "hangoutLink": "https://meet.google.com/bti-wsda-inz",
+        "conferenceData": {
+            "createRequest": {
+                "requestId": "0QM5CMQ12F",
+                "conferenceSolutionKey": {
+                    "type": "hangoutsMeet"
+                },
+                "status": {
+                    "statusCode": "success"
+                }
+            },
+            "entryPoints": [
+                {
+                    "entryPointType": "video",
+                    "uri": "https://meet.google.com/bti-wsda-inz",
+                    "label": "meet.google.com/bti-wsda-inz"
+                }
+            ],
+            "conferenceSolution": {
+                "key": {
+                    "type": "hangoutsMeet"
+                },
+                "name": "Google Meet",
+                "iconUri": "https://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v6/web-512dp/logo_meet_2020q4_color_2x_web_512dp.png"
+            },
+            "conferenceId": "bti-wsda-inz"
+        },
+        "reminders": {
+            "useDefault": false,
+            "overrides": [
+                {
+                    "method": "email",
+                    "minutes": 1440
+                },
+                {
+                    "method": "popup",
+                    "minutes": 10
+                }
+            ]
+        },
+        "eventType": "default"
+    },
+    {
+        "kind": "calendar#event",
+        "etag": "\"3390207597256000\"",
+        "id": "_60q30c1g60o30e1i60o4ac1g60rj8gpl88rj2c1h84s34h9g60s30c1g60o30c1g74skchhg6p2jegi68l0k8e9g64o30c1g60o30c1g60o30c1g60o32c1g60o30c1g6ks46gq26kp36h9j68pj0h9k74sjac9m8l2j2d236or32c1k8gp0",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=XzYwcTMwYzFnNjBvMzBlMWk2MG80YWMxZzYwcmo4Z3BsODhyajJjMWg4NHMzNGg5ZzYwczMwYzFnNjBvMzBjMWc3NHNrY2hoZzZwMmplZ2k2OGwwazhlOWc2NG8zMGMxZzYwbzMwYzFnNjBvMzBjMWc2MG8zMmMxZzYwbzMwYzFnNmtzNDZncTI2a3AzNmg5ajY4cGowaDlrNzRzamFjOW04bDJqMmQyMzZvcjMyYzFrOGdwMCBjb2FjaGNvYWNoZWxsb0Bt",
+        "created": "2023-09-19T06:09:54.000Z",
+        "updated": "2023-09-19T06:09:58.628Z",
+        "summary": "Coachello session Marie (Coachello) and lasitha (TestCompany)",
+        "description": "Meeting will take place on Microsoft Teams, join on your computer or mobile app.\n________________________________________________________________________________\nMicrosoft Teams meeting\nJoin on your computer, mobile app or room device\nClick here to join the meeting<https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzkxZDc2ZGUtY2ZhMS00ZDA3LWE5YWYtZDUwZmU3OWQxOTVm%40thread.v2/0?context=%7b%22Tid%22%3a%222f5c7ee1-4528-43f9-aa0d-441a8a5de728%22%2c%22Oid%22%3a%2209b70665-d173-41ff-8641-8e7470816810%22%7d>\nMeeting ID: 324 057 617 682\nPasscode: S4i3qa\nDownload Teams<https://www.microsoft.com/en-us/microsoft-teams/download-app> | Join on the web<https://www.microsoft.com/microsoft-teams/join-a-meeting>\nOr call in (audio only)\n+33 1 85 65 59 48,,226525745#<tel:+33185655948,,226525745#>   France, Paris\nPhone Conference ID: 226 525 745#\nFind a local number<https://dialin.teams.microsoft.com/fa3950f6-9e40-45f0-a60c-9cf05cedda8d?id=226525745> | Reset PIN<https://dialin.teams.microsoft.com/usp/pstnconferencing>\nLearn more<https://aka.ms/JoinTeamsMeeting> | Meeting options<https://teams.microsoft.com/meetingOptions/?organizerId=09b70665-d173-41ff-8641-8e7470816810&tenantId=2f5c7ee1-4528-43f9-aa0d-441a8a5de728&threadId=19_meeting_NzkxZDc2ZGUtY2ZhMS00ZDA3LWE5YWYtZDUwZmU3OWQxOTVm@thread.v2&messageId=0&language=en-GB>\n________________________________________________________________________________\n",
+        "location": "Coachello Space",
+        "creator": {
+            "email": "coachcoachello@gmail.com",
+            "self": true
+        },
+        "organizer": {
+            "email": "scheduling@teams.coachello.io",
+            "displayName": "Coaching"
+        },
+        "start": {
+            "dateTime": "2023-09-28T09:30:00+05:30",
+            "timeZone": "Etc/UTC"
+        },
+        "end": {
+            "dateTime": "2023-09-28T10:30:00+05:30",
+            "timeZone": "Etc/UTC"
+        },
+        "iCalUID": "040000008200E00074C5B7101A82E0080000000099FF06E7BFEAD90100000000000000001000000058CCB523E3230E499516EE14C66104D2",
+        "sequence": 0,
+        "attendees": [
+            {
+                "email": "coachcoachello@gmail.com",
+                "self": true,
+                "responseStatus": "needsAction"
+            },
+            {
+                "email": "lasitha@coachello.io",
+                "displayName": "lasitha jayawardana",
+                "responseStatus": "needsAction"
+            },
+            {
+                "email": "scheduling@teams.coachello.io",
+                "displayName": "Coaching",
+                "organizer": true,
+                "responseStatus": "accepted"
+            }
+        ],
+        "guestsCanInviteOthers": false,
+        "privateCopy": true,
+        "reminders": {
+            "useDefault": true
+        },
+        "eventType": "default"
+    },
+    {
+        "kind": "calendar#event",
+        "etag": "\"3390779609794000\"",
+        "id": "5feev4679chj76vrlf2klinjs8",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=NWZlZXY0Njc5Y2hqNzZ2cmxmMmtsaW5qczggY29hY2hjb2FjaGVsbG9AbQ",
+        "created": "2023-09-22T13:36:44.000Z",
+        "updated": "2023-09-22T13:36:44.897Z",
+        "summary": "Coachello session Marie (Coachello) and Admin (Microslack)",
+        "description": "Meeting will take place on Google Meet, join on your computer or mobile app.",
+        "creator": {
+            "email": "coachcoachello@gmail.com",
+            "self": true
+        },
+        "organizer": {
+            "email": "coachcoachello@gmail.com",
+            "self": true
+        },
+        "start": {
+            "dateTime": "2023-09-29T12:00:00+05:30",
+            "timeZone": "Europe/Paris"
+        },
+        "end": {
+            "dateTime": "2023-09-29T13:00:00+05:30",
+            "timeZone": "Europe/Paris"
+        },
+        "iCalUID": "5feev4679chj76vrlf2klinjs8@google.com",
+        "sequence": 0,
+        "attendees": [
+            {
+                "email": "coachellodirector@gmail.com",
+                "responseStatus": "accepted"
+            },
+            {
+                "email": "coachcoachello@gmail.com",
+                "organizer": true,
+                "self": true,
+                "responseStatus": "accepted"
+            }
+        ],
+        "hangoutLink": "https://meet.google.com/gfn-zyep-ryp",
+        "conferenceData": {
+            "createRequest": {
+                "requestId": "SYBVX679US",
+                "conferenceSolutionKey": {
+                    "type": "hangoutsMeet"
+                },
+                "status": {
+                    "statusCode": "success"
+                }
+            },
+            "entryPoints": [
+                {
+                    "entryPointType": "video",
+                    "uri": "https://meet.google.com/gfn-zyep-ryp",
+                    "label": "meet.google.com/gfn-zyep-ryp"
+                }
+            ],
+            "conferenceSolution": {
+                "key": {
+                    "type": "hangoutsMeet"
+                },
+                "name": "Google Meet",
+                "iconUri": "https://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v6/web-512dp/logo_meet_2020q4_color_2x_web_512dp.png"
+            },
+            "conferenceId": "gfn-zyep-ryp"
+        },
+        "reminders": {
+            "useDefault": false,
+            "overrides": [
+                {
+                    "method": "email",
+                    "minutes": 1440
+                },
+                {
+                    "method": "popup",
+                    "minutes": 10
+                }
+            ]
+        },
+        "eventType": "default"
+    },
+    {
+        "kind": "calendar#event",
+        "etag": "\"3390786383333000\"",
+        "id": "aapm7kv4rht03mvd8m2s3sihi0",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=YWFwbTdrdjRyaHQwM212ZDhtMnMzc2loaTAgY29hY2hjb2FjaGVsbG9AbQ",
+        "created": "2023-09-21T16:23:16.000Z",
+        "updated": "2023-09-23T12:43:06.809Z",
+        "summary": "Coachello session Marie (Coachello) and Quentin (Coachello)",
+        "description": "Meeting will take place on Google Meet, join on your computer or mobile app.",
+        "creator": {
+            "email": "coachcoachello@gmail.com",
+            "self": true
+        },
+        "organizer": {
+            "email": "coachcoachello@gmail.com",
+            "self": true
+        },
+        "start": {
+            "dateTime": "2023-09-29T15:15:00+05:30",
+            "timeZone": "Europe/Paris"
+        },
+        "end": {
+            "dateTime": "2023-09-29T16:15:00+05:30",
+            "timeZone": "Europe/Paris"
+        },
+        "iCalUID": "aapm7kv4rht03mvd8m2s3sihi0@google.com",
+        "sequence": 0,
+        "attendees": [
+            {
+                "email": "coachcoachello@gmail.com",
+                "organizer": true,
+                "self": true,
+                "responseStatus": "accepted"
+            },
+            {
+                "email": "quentin@coachello.io",
+                "responseStatus": "declined"
+            }
+        ],
+        "hangoutLink": "https://meet.google.com/sgm-iyqu-bgp",
+        "conferenceData": {
+            "createRequest": {
+                "requestId": "NKCB0FAUWW",
+                "conferenceSolutionKey": {
+                    "type": "hangoutsMeet"
+                },
+                "status": {
+                    "statusCode": "success"
+                }
+            },
+            "entryPoints": [
+                {
+                    "entryPointType": "video",
+                    "uri": "https://meet.google.com/sgm-iyqu-bgp",
+                    "label": "meet.google.com/sgm-iyqu-bgp"
+                }
+            ],
+            "conferenceSolution": {
+                "key": {
+                    "type": "hangoutsMeet"
+                },
+                "name": "Google Meet",
+                "iconUri": "https://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v6/web-512dp/logo_meet_2020q4_color_2x_web_512dp.png"
+            },
+            "conferenceId": "sgm-iyqu-bgp"
+        },
+        "reminders": {
+            "useDefault": false,
+            "overrides": [
+                {
+                    "method": "email",
+                    "minutes": 1440
+                },
+                {
+                    "method": "popup",
+                    "minutes": 10
+                }
+            ]
+        },
+        "eventType": "default"
+    },
+    {
+        "kind": "calendar#event",
+        "etag": "\"3391270394446000\"",
+        "id": "u88p0243qce4bas30vdugbsm5c",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=dTg4cDAyNDNxY2U0YmFzMzB2ZHVnYnNtNWMgY29hY2hjb2FjaGVsbG9AbQ",
+        "created": "2023-09-25T09:46:37.000Z",
+        "updated": "2023-09-25T09:46:37.223Z",
+        "summary": "Coachello session Marie (Coachello) and Leon (Coachello)",
+        "description": "Meeting will take place on Google Meet, join on your computer or mobile app.",
+        "creator": {
+            "email": "coachcoachello@gmail.com",
+            "self": true
+        },
+        "organizer": {
+            "email": "coachcoachello@gmail.com",
+            "self": true
+        },
+        "start": {
+            "dateTime": "2023-09-29T16:45:00+05:30",
+            "timeZone": "Europe/Paris"
+        },
+        "end": {
+            "dateTime": "2023-09-29T17:45:00+05:30",
+            "timeZone": "Europe/Paris"
+        },
+        "iCalUID": "u88p0243qce4bas30vdugbsm5c@google.com",
+        "sequence": 0,
+        "attendees": [
+            {
+                "email": "coachcoachello@gmail.com",
+                "organizer": true,
+                "self": true,
+                "responseStatus": "accepted"
+            },
+            {
+                "email": "leon@coachello.io",
+                "responseStatus": "accepted"
+            }
+        ],
+        "hangoutLink": "https://meet.google.com/zod-ukma-vur",
+        "conferenceData": {
+            "createRequest": {
+                "requestId": "AHETSL9OUK",
+                "conferenceSolutionKey": {
+                    "type": "hangoutsMeet"
+                },
+                "status": {
+                    "statusCode": "success"
+                }
+            },
+            "entryPoints": [
+                {
+                    "entryPointType": "video",
+                    "uri": "https://meet.google.com/zod-ukma-vur",
+                    "label": "meet.google.com/zod-ukma-vur"
+                }
+            ],
+            "conferenceSolution": {
+                "key": {
+                    "type": "hangoutsMeet"
+                },
+                "name": "Google Meet",
+                "iconUri": "https://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v6/web-512dp/logo_meet_2020q4_color_2x_web_512dp.png"
+            },
+            "conferenceId": "zod-ukma-vur"
+        },
+        "reminders": {
+            "useDefault": false,
+            "overrides": [
+                {
+                    "method": "email",
+                    "minutes": 1440
+                },
+                {
+                    "method": "popup",
+                    "minutes": 10
+                }
+            ]
+        },
+        "eventType": "default"
+    }
+]
