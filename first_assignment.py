@@ -8,12 +8,12 @@ class TranscriptManager:
             cls._instance.transcripts = {
                 'English': {
                     'welcome': "Welcome, {client_name}. This is coach {coach_name}, from Coachello.",
-                    'goodbye': "Goodbye, {client_name}. It was a pleasure coaching you. - {coach_name}",
+                    'goodbye': "Goodbye, {client_name}. It was a pleasure coaching you. - Coach {coach_name}",
                     'progress': "Great progress, {client_name}. Keep it up! - Coach {coach_name}"
                 },
                 'Spanish': {
                     'welcome': "Bienvenido, {client_name}. Este es entrenador {coach_name}, de Coachello.",
-                    'goodbye': "Adiós, {client_name}. Fue un placer entrenarte. - {coach_name}",
+                    'goodbye': "Adiós, {client_name}. Fue un placer entrenarte. - Entrenador {coach_name}",
                     'progress': "Gran progreso, {client_name}. ¡Sigue así! - Entrenador {coach_name}"
                 }
             }
@@ -37,7 +37,7 @@ class PromptHandler:
         self.format = "Text"
         self.transcript_type = "welcome"
 
-    # Public setter methods (encapsulation)
+    # Public setter methods
     def set_coach_name(self, coach_name):
         self.coach_name = coach_name
 
@@ -74,6 +74,10 @@ class PromptHandlerFactory:
 def main():
     try:
         # Create PromptHandler instance using Factory Method
+        # * Polymorphism - PromptHandler class, the code is set up to handle 
+        # multiple types of prompt handlers through a common interface
+        # * Inheritance - The use of a base PromptHandler class allows 
+        # for easy extension to other types of prompt handlers
         prompt_handler = PromptHandlerFactory.create_prompt_handler('base')
         if prompt_handler is None:
             raise ValueError("Invalid handler type.")
