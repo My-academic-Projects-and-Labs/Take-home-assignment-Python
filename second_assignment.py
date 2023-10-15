@@ -97,4 +97,4 @@ if __name__ == "__main__":
     scheduler.load_events('./asset/events.json')
     scheduler.sort_events()
     scheduler.calculate_available_slots()
-    scheduler.save_available_slots('./out/available_slots.json')
+    scheduler.save_available_slots('./out/2nd_out/available_slots.json')

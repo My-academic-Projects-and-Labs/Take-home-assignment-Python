@@ -18,7 +18,7 @@ Your job is to refactor this script, leveraging object-oriented programming prin
 
 1. Write a class named **`PromptHandler`**.
 2. The class should have methods to set client details and other relevant parameters.
-3. The class should be capable of dynamically handling various parameters like **`language`**, **`format`**, and so on. Based on the language and format, the `**transcript**` needs to be changed as well. 
+3. The class should be capable of dynamically handling various parameters like **`language`**, **`format`**, and so on. Based on the language and format, the **transcript** needs to be changed as well. 
 4. As there will be different `**transcripts**` available, they won’t change often and still require constant edits, and new transcripts will come in as we progress.
 5. The class should have a method named **`get_formatted_prompt`** which will return the final formatted string by replacing placeholders with their respective values.
 
